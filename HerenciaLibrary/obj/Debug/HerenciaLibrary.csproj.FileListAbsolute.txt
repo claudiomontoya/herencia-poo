@@ -1,0 +1,6 @@
+C:\Users\Claudio\source\repos\Herencia\HerenciaLibrary\bin\Debug\HerenciaLibrary.dll
+C:\Users\Claudio\source\repos\Herencia\HerenciaLibrary\bin\Debug\HerenciaLibrary.pdb
+C:\Users\Claudio\source\repos\Herencia\HerenciaLibrary\obj\Debug\HerenciaLibrary.csprojAssemblyReference.cache
+C:\Users\Claudio\source\repos\Herencia\HerenciaLibrary\obj\Debug\HerenciaLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\Herencia\HerenciaLibrary\obj\Debug\HerenciaLibrary.dll
+C:\Users\Claudio\source\repos\Herencia\HerenciaLibrary\obj\Debug\HerenciaLibrary.pdb
