@@ -1,0 +1,6 @@
+C:\Users\Claudio\source\repos\Herencia\ClassLibrary-Persona\bin\Debug\ClassLibrary-Persona.dll
+C:\Users\Claudio\source\repos\Herencia\ClassLibrary-Persona\bin\Debug\ClassLibrary-Persona.pdb
+C:\Users\Claudio\source\repos\Herencia\ClassLibrary-Persona\obj\Debug\ClassLibrary-Persona.csprojAssemblyReference.cache
+C:\Users\Claudio\source\repos\Herencia\ClassLibrary-Persona\obj\Debug\ClassLibrary-Persona.csproj.CoreCompileInputs.cache
+C:\Users\Claudio\source\repos\Herencia\ClassLibrary-Persona\obj\Debug\ClassLibrary-Persona.dll
+C:\Users\Claudio\source\repos\Herencia\ClassLibrary-Persona\obj\Debug\ClassLibrary-Persona.pdb

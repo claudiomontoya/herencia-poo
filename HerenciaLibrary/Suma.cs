@@ -12,7 +12,6 @@ namespace HerenciaLibrary
         {
             resultado = valor1 + valor2;
         }
-
         public override void Resultado()
         {
             Console.WriteLine("El resultado de "+ valor1 +" + "+ valor2 +"  es: " + resultado);

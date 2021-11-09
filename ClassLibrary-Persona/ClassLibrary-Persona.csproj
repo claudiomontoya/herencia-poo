@@ -4,16 +4,17 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B9FB5057-9E2B-4CFF-97C1-12C1B7767FCF}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>HerenciaApp</RootNamespace>
-    <AssemblyName>HerenciaApp</AssemblyName>
+    <ProjectGuid>{473543B6-4514-4F42-8997-0573AF9A9D31}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ClassLibrary_Persona</RootNamespace>
+    <AssemblyName>ClassLibrary-Persona</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
@@ -23,7 +24,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
@@ -42,21 +42,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="administrativo.cs" />
+    <Compile Include="alumno.cs" />
+    <Compile Include="persona.cs" />
+    <Compile Include="profesor.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary-Persona\ClassLibrary-Persona.csproj">
-      <Project>{473543b6-4514-4f42-8997-0573af9a9d31}</Project>
-      <Name>ClassLibrary-Persona</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\HerenciaLibrary\HerenciaLibrary.csproj">
-      <Project>{c3fecaa1-6c08-4aa7-84fc-318a16d09d96}</Project>
-      <Name>HerenciaLibrary</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

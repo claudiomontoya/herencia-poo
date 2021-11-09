@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerenciaApp", "HerenciaApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerenciaLibrary", "HerenciaLibrary\HerenciaLibrary.csproj", "{C3FECAA1-6C08-4AA7-84FC-318A16D09D96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary-Persona", "ClassLibrary-Persona\ClassLibrary-Persona.csproj", "{473543B6-4514-4F42-8997-0573AF9A9D31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C3FECAA1-6C08-4AA7-84FC-318A16D09D96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C3FECAA1-6C08-4AA7-84FC-318A16D09D96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C3FECAA1-6C08-4AA7-84FC-318A16D09D96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{473543B6-4514-4F42-8997-0573AF9A9D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{473543B6-4514-4F42-8997-0573AF9A9D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{473543B6-4514-4F42-8997-0573AF9A9D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{473543B6-4514-4F42-8997-0573AF9A9D31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

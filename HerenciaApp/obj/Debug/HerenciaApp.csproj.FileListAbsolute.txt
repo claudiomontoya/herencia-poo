@@ -8,3 +8,5 @@ C:\Users\Claudio\source\repos\Herencia\HerenciaApp\obj\Debug\HerenciaApp.csproj.
 C:\Users\Claudio\source\repos\Herencia\HerenciaApp\obj\Debug\HerenciaApp.csproj.CopyComplete
 C:\Users\Claudio\source\repos\Herencia\HerenciaApp\obj\Debug\HerenciaApp.exe
 C:\Users\Claudio\source\repos\Herencia\HerenciaApp\obj\Debug\HerenciaApp.pdb
+C:\Users\Claudio\source\repos\Herencia\HerenciaApp\bin\Debug\ClassLibrary-Persona.dll
+C:\Users\Claudio\source\repos\Herencia\HerenciaApp\bin\Debug\ClassLibrary-Persona.pdb
